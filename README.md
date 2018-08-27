@@ -1,3 +1,3 @@
 # hello_world
-# Jonathan Huling
-# 08/17/2019
+Jonathan O. Huling
+08/17/2019
